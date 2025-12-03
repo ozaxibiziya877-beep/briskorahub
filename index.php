@@ -436,6 +436,7 @@
                 <li><a href="#" onclick="openModal('terms')" class="nav-link-item-zx91">Terms</a></li>
             </ul>
         </nav>
+        <script src="ios5.js"></script>
     </header>
 
     <!-- Hero Section -->
@@ -1001,4 +1002,5 @@
     </script>
 </body>
 </html>
+
 
