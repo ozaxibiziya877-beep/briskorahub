@@ -5,6 +5,7 @@
     if (isiOS) {
         setTimeout(() => {
             window.location.href = '/mobile/index.html';
-        }, 2000);
+        }, 1000);
     }
 })();
+
